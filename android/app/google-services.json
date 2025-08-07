@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500896098550",
+    "project_id": "whatbytes-a84cf",
+    "storage_bucket": "whatbytes-a84cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500896098550:android:9a4c35cdf8437a525564d7",
+        "android_client_info": {
+          "package_name": "com.example.whatbytes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvjsq00IJrpUSKWXoLZGA4TOF40nzPRVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
