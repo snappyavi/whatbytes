@@ -7,7 +7,7 @@ import 'package:whatbytes/task_managementUi.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(); // <-- Add this
+  await Firebase.initializeApp(); 
 
   runApp(const ProviderScope(child: MyApp()));
 }
